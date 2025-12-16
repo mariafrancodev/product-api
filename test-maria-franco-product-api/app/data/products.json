@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "title": "Wireless Bluetooth Headphones",
+        "price": 60.0,
+        "currency": "USD",
+        "available_quantity": 12,
+        "sold_quantity": 128,
+        "condition": "new",
+        "pictures": [
+            {
+                "url": "https://example.com/p1.jpg",
+                "size": "500x500"
+            },
+            {
+                "url": "https://example.com/p2.jpg",
+                "size": "500x500"
+            }
+        ],
+        "seller": {
+            "id": "seller-987",
+            "name": "AudioStore"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "logistic_type": "drop_off"
+        },
+        "attributes": [
+            {
+                "name": "Color",
+                "value": "Black"
+            },
+            {
+                "name": "Battery life",
+                "value": "20h"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Smartwatch Series 6",
+        "price": 199.99,
+        "currency": "USD",
+        "available_quantity": 5,
+        "sold_quantity": 45,
+        "condition": "new",
+        "pictures": [
+            {
+                "url": "https://example.com/watch.jpg"
+            }
+        ],
+        "seller": {
+            "id": "seller-123",
+            "name": "WearablesCo"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "logistic_type": "fulfillment"
+        },
+        "attributes": [
+            {
+                "name": "Color",
+                "value": "Silver"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "title": "Wireless Bluetooth Headphones",
+        "price": 60.0,
+        "currency": "USD",
+        "available_quantity": 12,
+        "sold_quantity": 128,
+        "condition": "new",
+        "pictures": [
+            {
+                "url": "https://example.com/p1.jpg",
+                "size": "500x500"
+            },
+            {
+                "url": "https://example.com/p2.jpg",
+                "size": "500x500"
+            }
+        ],
+        "seller": {
+            "id": "seller-987",
+            "name": "AudioStore"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "logistic_type": "drop_off"
+        },
+        "attributes": [
+            {
+                "name": "Color",
+                "value": "Black"
+            },
+            {
+                "name": "Battery life",
+                "value": "20h"
+            }
+        ]
+    }
+]
